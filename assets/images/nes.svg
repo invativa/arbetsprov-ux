@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="219" height="127" viewBox="0 0 219 127">
+    <defs>
+        <radialGradient id="a" fx="50%" fy="50%" gradientTransform="matrix(0 1 -.99944 0 1 0)">
+            <stop offset="0%" stop-color="#DCDCDC"/>
+            <stop offset="53.599%" stop-color="#E2E2E2" stop-opacity=".398"/>
+            <stop offset="100%" stop-color="#E4E4E4" stop-opacity="0"/>
+        </radialGradient>
+    </defs>
+    <g fill="none" fill-rule="nonzero">
+        <g transform="translate(14)">
+            <rect width="187.077" height="87.097" x="1.462" y="1.452" fill="#EEE" rx="5.769"/>
+            <path fill="#E3E3E3" d="M184.154 90H5.846C2.617 90 0 87.4 0 84.194V5.806C0 2.6 2.617 0 5.846 0h178.308C187.383 0 190 2.6 190 5.806v78.388C190 87.4 187.383 90 184.154 90zM5.846 2.903a2.913 2.913 0 0 0-2.923 2.903v78.388a2.913 2.913 0 0 0 2.923 2.903h178.308c1.614 0 2.923-1.3 2.923-2.903V5.806a2.913 2.913 0 0 0-2.923-2.903H5.846z"/>
+            <rect width="166.615" height="66.774" x="11.692" y="11.613" fill="#E3E3E3" rx="3.846"/>
+            <rect width="21.923" height="21.774" x="121.308" y="46.452" fill="#DDD" rx="3.846"/>
+            <rect width="46.769" height="14.516" x="70.154" y="50.806" fill="#DDD" rx="1.923"/>
+            <rect width="46.769" height="8.71" x="70.154" y="37.742" fill="#DDD" rx="1.923"/>
+            <rect width="46.769" height="8.71" x="70.154" y="23.226" fill="#DDD" rx="1.923"/>
+            <rect width="46.769" height="5.806" x="70.154" y="11.613" fill="#DDD" rx="1.923"/>
+            <rect width="46.769" height="5.806" x="70.154" y="72.581" fill="#DDD" rx="1.923"/>
+            <rect width="21.923" height="21.774" x="144.692" y="46.452" fill="#DDD" rx="3.846"/>
+            <ellipse cx="132.269" cy="57.339" fill="#ED7575" rx="8.038" ry="7.984"/>
+            <ellipse cx="155.654" cy="57.339" fill="#ED7575" rx="8.038" ry="7.984"/>
+            <path fill="#8B8B8B" d="M21.923 42.097h38V53.71h-38zM76 55.161h14.615v5.806H76zM95 55.161h14.615v5.806H95z"/>
+            <path fill="#8B8B8B" d="M35.077 29.032h11.692v37.742H35.077z"/>
+            <rect width="32.154" height="5.806" x="125.692" y="29.032" fill="#7589B5" rx="1.923"/>
+        </g>
+        <ellipse cx="109.5" cy="115.5" fill="url(#a)" rx="109.5" ry="11.5"/>
+    </g>
+</svg>
